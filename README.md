@@ -22,6 +22,16 @@ App09 - Java Program to Check Whether an Alphabet is Vowel or Consonant.
 
 App10 - Java Program to reverse a String without Using In-Built reverse() method.
 
+App11 - Java Program to swap two numbers without using third variable.
+
+App12 - Java Program to Remove Duplicate Elements from ArrayList.
+
+App13 - Java Program to Remove all Whitespaces from a String.
+
+App14 - Java Program to Find the Sum of All Digits of a Number Using Java 8.
+
+App15 - Java Program to print Even Numbers Using Java 8.
+
 
 
 
