@@ -32,6 +32,17 @@ App14 - Java Program to Find the Sum of All Digits of a Number Using Java 8.
 
 App15 - Java Program to print Even Numbers Using Java 8.
 
+App16 - Java Program to retrieve the last element of a list of Strings using Java 8's Stram.
+
+App17 - Java Program to erase dulpicate elements from the List using Java 9 Streams.
+
+App18 - Java Program to find the age of a person in years if the birthday year is given.
+
+App19 - Java Program to reverse each word of a String using Java 8 streams.
+
+App20 - Java Program to find the Second Largest Number in List of Integers. 
+
+
 
 
 
