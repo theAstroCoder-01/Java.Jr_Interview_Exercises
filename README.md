@@ -42,9 +42,13 @@ App19 - Java Program to reverse each word of a String using Java 8 streams.
 
 App20 - Java Program to find the Second Largest Number in List of Integers. 
 
+App21 — Java Program to find the max and minimum number using Java 8 Streams in a given list.
 
+App22 — Java Program to find frequency of each character in a String using Java 8 Streams.
 
+App23 — Java Program to Start a List of Strings Alphabeticall using Java 8 Stream API
 
+App24 — Java Program to find the largest number among three numbers.
 
 
 
